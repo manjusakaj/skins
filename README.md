@@ -12,6 +12,12 @@ Solo 官方皮肤中有很大一部分是其他博客系统皮肤的仿款，为
 
 最后，衷心感谢所有原创作者们！
 
+
+## 使用
+
+git clone --recurse-submodules git@github.com:manjusakaj/skins.git
+
+git pull --recurse-submodules
 ## 皮肤
 
 预览及下载可参见 [Solo 主题](https://solo.b3log.org/#themes)。
